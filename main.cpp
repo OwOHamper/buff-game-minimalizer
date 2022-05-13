@@ -10,7 +10,5 @@ int main() {
         ShowWindow(FindWindow(NULL, "BUFF App"), SW_HIDE);
         Sleep(500);
     }
-
-
     return 0;
 }
